@@ -19,7 +19,7 @@ php artisan migrate:fresh --seed
 
 ## Step 3:
 - Goto welcome blade file.
-- Design this ui using your preferred css framework. bootstrap-5, css-3, tailwindcss.
+- Design this UI using your preferred CSS framework. bootstrap-5, css-3, tailwindcss.
 - Design this layout with grid view.
 - Single card design with flex. 
 
@@ -35,13 +35,13 @@ php artisan migrate:fresh --seed
 - Display the single post data in a dedicated card view.
 
 ## Step 5: 
-- Upload this project your github repository
-- Share your repository in this whatsapp.
+- Upload this project your GitHub repository
+- Share your repository in this WhatsApp.
 - Whatsapp: 
-  - 01889-992919
+  - 01639200002
 
 
 # If Need Any Help:
 
 - Whatsapp: 
-  - 01889-992919
+  - 01639200002
